@@ -1,0 +1,23 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 800;
+    color: blue;
+    background-color: violet;
+}
+
+.carbonara, 
+.lasagna, 
+.pizza {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
